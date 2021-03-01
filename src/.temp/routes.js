@@ -4,11 +4,15 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--markdown-page-vue" */ "/home/arturo/git/arturo/elaruturo/src/templates/MarkdownPage.vue")
   },
   {
+    path: "/docs/settings/",
+    component: () => import(/* webpackChunkName: "page--src--templates--markdown-page-vue" */ "/home/arturo/git/arturo/elaruturo/src/templates/MarkdownPage.vue")
+  },
+  {
     path: "/docs/sidebar/",
     component: () => import(/* webpackChunkName: "page--src--templates--markdown-page-vue" */ "/home/arturo/git/arturo/elaruturo/src/templates/MarkdownPage.vue")
   },
   {
-    path: "/docs/settings/",
+    path: "/algebra/test/",
     component: () => import(/* webpackChunkName: "page--src--templates--markdown-page-vue" */ "/home/arturo/git/arturo/elaruturo/src/templates/MarkdownPage.vue")
   },
   {

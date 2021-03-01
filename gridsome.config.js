@@ -39,6 +39,12 @@ module.exports = {
               '/docs/settings/',
               '/docs/sidebar/',
             ]
+          },
+          {
+            title: 'Algebra',
+            items: [
+              '/algebra/test/',
+            ]
           }
         ]
       }
