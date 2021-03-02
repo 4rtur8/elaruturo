@@ -41,9 +41,15 @@ module.exports = {
             ]
           },
           {
+            title: 'Razonamiento Matemático',
+            items: [
+              '/algebra/razonamiento/',
+            ]
+          },
+          {
             title: 'Algebra',
             items: [
-              '/algebra/test/',
+              '/algebra/numerosreales/',
             ]
           }
         ]
