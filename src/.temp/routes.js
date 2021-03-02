@@ -1,10 +1,10 @@
 export default [
   {
-    path: "/docs/writing-content/",
+    path: "/razonamiento/razo/",
     component: () => import(/* webpackChunkName: "page--src--templates--markdown-page-vue" */ "/home/arturo/git/arturo/elaruturo/src/templates/MarkdownPage.vue")
   },
   {
-    path: "/docs/settings/",
+    path: "/docs/writing-content/",
     component: () => import(/* webpackChunkName: "page--src--templates--markdown-page-vue" */ "/home/arturo/git/arturo/elaruturo/src/templates/MarkdownPage.vue")
   },
   {
@@ -12,7 +12,11 @@ export default [
     component: () => import(/* webpackChunkName: "page--src--templates--markdown-page-vue" */ "/home/arturo/git/arturo/elaruturo/src/templates/MarkdownPage.vue")
   },
   {
-    path: "/algebra/test/",
+    path: "/docs/settings/",
+    component: () => import(/* webpackChunkName: "page--src--templates--markdown-page-vue" */ "/home/arturo/git/arturo/elaruturo/src/templates/MarkdownPage.vue")
+  },
+  {
+    path: "/algebra/numerosreales/",
     component: () => import(/* webpackChunkName: "page--src--templates--markdown-page-vue" */ "/home/arturo/git/arturo/elaruturo/src/templates/MarkdownPage.vue")
   },
   {

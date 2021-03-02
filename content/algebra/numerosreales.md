@@ -1,8 +1,14 @@
+---
+description: ''
+sidebar: 'docs'
+next: '/docs/installation/'
+---
+
 # Números reales
 
-![alt text](Notas-4.jpeg)
+![alt text](./Notas-4.jpeg)
 
 ## Propiedades
 
-![alt text](Notas-5.jpeg)
-![alt text](Notas-6.jpeg)
+![alt text](./Notas-5.jpeg)
+![alt text](./Notas-6.jpeg)

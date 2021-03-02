@@ -43,7 +43,7 @@ module.exports = {
           {
             title: 'Razonamiento Matemático',
             items: [
-              '/algebra/razonamiento/',
+              '/razonamiento/razo/',
             ]
           },
           {
